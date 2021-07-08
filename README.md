@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Rony-dot)
-<img src="https://github-readme-stats.vercel.app/api?username=Rony-dot" />
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Rony-dot&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Rakibul+Hassan+Rony's+GitHub+Stats&show_icons=true"
-/>
-<div class="github-profile-badge" data-user="Rony-dot"></div>
-<script src="https://cdn.jsdelivr.net/gh/Rony-dot/github-profile-badge@latest/src/widget.min.js"></script>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 

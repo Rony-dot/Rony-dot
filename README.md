@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Please email me at rakibulhassan.rony123@gmail.com 
 ## Here are some of my profile links
-###[LinkedIn](https://www.linkedin.com/in/r-hassan-rony-962760163/)
-###[Hackerrank](https://www.hackerrank.com/rakibulhassan_r1) 
-###[Curriculam-Vitae](https://rony-dot.github.io/resume/)
+[LinkedIn](https://www.linkedin.com/in/r-hassan-rony-962760163/) <br>
+[Hackerrank](https://www.hackerrank.com/rakibulhassan_r1) <br>
+[Curriculam-Vitae](https://rony-dot.github.io/resume/) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rony-dot&layout=compact)](https://github.com/Rony-dot/github-readme-stats)
 
 

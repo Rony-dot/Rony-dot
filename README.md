@@ -24,5 +24,8 @@ Here are some ideas to get you started:
 [Curriculam-Vitae](https://rony-dot.github.io/resume/) <br> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rony-dot&layout=compact)](https://github.com/Rony-dot/github-readme-stats)
 
+[![Rony's github stats](https://github-readme-stats.vercel.app/api?username=Rony-dot)](https://github.com/Rony-dot/Rony-dot)
+
+
 
 

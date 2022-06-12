@@ -1,3 +1,4 @@
+<img src="https://visitor-badge.glitch.me/badge?page_id=Rony-dot" alt="visitor" >
 ### Hi there 👋 Have a good day!
 
 <!--
@@ -26,6 +27,10 @@ Here are some ideas to get you started:
 
 [![Rony's github stats](https://github-readme-stats.vercel.app/api?username=Rony-dot)](https://github.com/Rony-dot/Rony-dot)
 
+[![wakatime](https://wakatime.com/badge/user/d2215001-0c52-4f63-9434-e964099d31f1.svg)](https://wakatime.com/@d2215001-0c52-4f63-9434-e964099d31f1)
 
+<p align='center' >
+<img src="https://wakatime.com/share/@Rony/f7ef6db3-b0f0-4f33-894c-13c56261dffd.png" />
+</p>
 
 

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## Please email me at rakibulhassan.rony123@gmail.com 
 ## Here are some of my profile links
 [LinkedIn](https://www.linkedin.com/in/r-hassan-rony-962760163/) <br>
-[LinkedIn]([https://www.linkedin.com/in/r-hassan-rony-962760163/](https://www.linkedin.com/in/rakibul-hassan-rony-962760163/)) <br>
+[LinkedIn](https://www.linkedin.com/in/rakibul-hassan-rony-962760163/) <br>
 [Codeforces](https://codeforces.com/profile/R_Hassan_Rony) <br>
 [Hackerrank](https://www.hackerrank.com/rakibulhassan_r1) <br>
 [LeetCode](https://leetcode.com/R_Hassan_Rony/) <br>

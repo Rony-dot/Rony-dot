@@ -1,4 +1,5 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=Rony-dot" alt="visitor" >
+
 ### Hi there 👋 Have a good day!
 
 <!--
@@ -17,12 +18,17 @@ Here are some ideas to get you started:
 -->
 
 ## Please email me at rakibulhassan.rony123@gmail.com 
-## Here are some of my profile links
-[LinkedIn](https://www.linkedin.com/in/rakibul-hassan-rony-962760163/) <br>
-[Codeforces](https://codeforces.com/profile/R_Hassan_Rony) <br>
-[Hackerrank](https://www.hackerrank.com/rakibulhassan_r1) <br>
-[LeetCode](https://leetcode.com/R_Hassan_Rony/) <br>
-[Curriculam-Vitae](https://rony-dot.github.io/resume/) <br> <br>
+### Here are some of my profile links
+| 📫 Links 😄 |
+|-------|
+| [LinkedIn](https://www.linkedin.com/in/rakibul-hassan-rony-962760163/) 🔭 <br>|
+| [Codeforces](https://codeforces.com/profile/R_Hassan_Rony) 🌱 <br> |
+| [Hackerrank](https://www.hackerrank.com/rakibulhassan_r1) 👯 <br> |
+| [LeetCode](https://leetcode.com/R_Hassan_Rony/) 🤔 <br> |
+| [Curriculam-Vitae](https://rony-dot.github.io/resume/) ⚡ <br> | 
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rony-dot&layout=compact)](https://github.com/Rony-dot/github-readme-stats)
 
 [![Rony's github stats](https://github-readme-stats.vercel.app/api?username=Rony-dot)](https://github.com/Rony-dot/Rony-dot)

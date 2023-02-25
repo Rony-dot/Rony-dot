@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Here are some of my profile links
 | 📫 Links 😄 |
 |-------|
-| [LinkedIn](https://www.linkedin.com/in/rakibul-hassan-rony-962760163/) 🔭 <br>|
+| [LinkedIn](https://www.linkedin.com/in/rakibul-hassan-rony/) 🔭 <br>|
 | [Codeforces](https://codeforces.com/profile/R_Hassan_Rony) 🌱 <br> |
 | [Hackerrank](https://www.hackerrank.com/rakibulhassan_r1) 👯 <br> |
 | [LeetCode](https://leetcode.com/R_Hassan_Rony/) 🤔 <br> |

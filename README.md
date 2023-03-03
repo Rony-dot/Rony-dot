@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 
 ### Typeracer wpm
 
+<p align='center' >
 <a href="https://data.typeracer.com/pit/profile?user=rony12&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=rony12" border="0" alt="TypeRacer.com scorecard for user rony12" stype="width:100%;height:100%"/></a>
+</p>
 
 [![wakatime](https://wakatime.com/badge/user/d2215001-0c52-4f63-9434-e964099d31f1.svg)](https://wakatime.com/@d2215001-0c52-4f63-9434-e964099d31f1)
 

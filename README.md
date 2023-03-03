@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 [![Rony's github stats](https://github-readme-stats.vercel.app/api?username=Rony-dot)](https://github.com/Rony-dot/Rony-dot)
 
+[!Typeracer wpm](https://data.typeracer.com/misc/badge?user=rony12)
 [![wakatime](https://wakatime.com/badge/user/d2215001-0c52-4f63-9434-e964099d31f1.svg)](https://wakatime.com/@d2215001-0c52-4f63-9434-e964099d31f1)
 
 <p align='center' >

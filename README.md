@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 [![Rony's github stats](https://github-readme-stats.vercel.app/api?username=Rony-dot)](https://github.com/Rony-dot/Rony-dot)
 
 
-### Typeracer wpm
-
+## Typeracer word per minute.
+[Typeracer Profile](https://data.typeracer.com/pit/profile?user=rony12)
 <p align='center' >
 <a href="https://data.typeracer.com/pit/profile?user=rony12&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=rony12" border="0" alt="TypeRacer.com scorecard for user rony12" stype="width:100%;height:100%"/></a>
 </p>

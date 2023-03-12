@@ -1,6 +1,6 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=Rony-dot" alt="visitor" >
 
-### Hi there 👋 Have a good day!
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hi%20there&fontSize=90&fontAlignY=38&desc=Let's%20connect%20&descSize=30&descAlignY=61&animation=fadeIn)
 
 <!--
 **Rony-dot/Rony-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

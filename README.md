@@ -47,3 +47,5 @@ Here are some ideas to get you started:
 </p>
 
 
+![Snake animation](https://github.com/Rony-dot/Rony-dot/blob/output/github-contribution-grid-snake.svg)
+

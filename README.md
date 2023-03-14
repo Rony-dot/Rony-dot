@@ -82,9 +82,3 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/Rony-dot/Rony-dot/blob/output/github-contribution-grid-snake.svg)
 
-
-
-
-
-<h1 align="center">Hi 👋, I'm Rakibul Hassan Rony</h1>
-<h3 align="center">Aspires to be a Computer Science Engineer from a Computer Science Student.</h3>

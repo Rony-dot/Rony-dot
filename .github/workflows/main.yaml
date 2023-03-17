@@ -1,7 +1,10 @@
 name: Snake Commit gHub
 on:
   schedule: # execute every 12 hours
-    - cron: "* */6 * * *"
+    - cron: "0 */6 * * *"
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
   workflow_dispatch:
 jobs:
   build:
@@ -11,7 +14,7 @@ jobs:
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
-with:
+        with:
           github_user_name: Rony-dot
           svg_out_path: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v2.1.3

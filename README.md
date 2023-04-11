@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rony-dot&show_icons=true&locale=en&layout=compact" alt="rony-dot" /></p> -->
 <span> 
 <span align="left"> <a href="https://data.typeracer.com/pit/profile?user=rony12&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=rony12" border="0" alt="TypeRacer.com scorecard for user rony12" stype="width:100%;height:100%"/></a> </span>
-<span  align="right" > <img align="right" src="https://github-readme-stats.vercel.app/api?username=rony-dot&show_icons=true&locale=en" alt="rony-dot" /> <br> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rony-dot&" alt="rony-dot" /></span>
+<span  align="right" > <img src="https://github-readme-stats.vercel.app/api?username=rony-dot&show_icons=true&locale=en" alt="rony-dot" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rony-dot&" alt="rony-dot" /></span>
 </span>
 
-
+<br><br>
  
  ## Typeracer word per minute.
  [Typeracer Profile](https://data.typeracer.com/pit/profile?user=rony12) 

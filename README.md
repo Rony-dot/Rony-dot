@@ -65,13 +65,15 @@ Here are some ideas to get you started:
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rony-dot&show_icons=true&locale=en&layout=compact" alt="rony-dot" /></p> -->
 
 
- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rony-dot&show_icons=true&locale=en" alt="rony-dot" /></p>
+ <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rony-dot&show_icons=true&locale=en" alt="rony-dot" /></p>
  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rony-dot&" alt="rony-dot" /></p>
  
+ ## Typeracer word per minute.
  [Typeracer Profile](https://data.typeracer.com/pit/profile?user=rony12) 
+ 
  <p align='center' > <a href="https://data.typeracer.com/pit/profile?user=rony12&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=rony12" border="0" alt="TypeRacer.com scorecard for user rony12" stype="width:100%;height:100%"/></a> </p> 
 
-## Typeracer word per minute.
+
 
 
 [![wakatime](https://wakatime.com/badge/user/d2215001-0c52-4f63-9434-e964099d31f1.svg)](https://wakatime.com/@d2215001-0c52-4f63-9434-e964099d31f1)

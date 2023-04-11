@@ -65,8 +65,7 @@ Here are some ideas to get you started:
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rony-dot&show_icons=true&locale=en&layout=compact" alt="rony-dot" /></p> -->
 
 
- <p align="left"> <img  src="https://github-readme-stats.vercel.app/api?username=rony-dot&show_icons=true&locale=en" alt="rony-dot" /></p>
- <p align="right"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=rony-dot&" alt="rony-dot" /></p>
+ <p > <img align="left" src="https://github-readme-stats.vercel.app/api?username=rony-dot&show_icons=true&locale=en" alt="rony-dot" /> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rony-dot&" alt="rony-dot" /></p>
  
  ## Typeracer word per minute.
  [Typeracer Profile](https://data.typeracer.com/pit/profile?user=rony12) 
